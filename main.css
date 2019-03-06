@@ -3,10 +3,9 @@
 }
 body {
 	background-image: url('https://fluteguy.github.io/guy.gif');
-	background-position: center center;
-	background-repeat: no-repeat;
+	background-position: center top;
+	background-repeat: repeat;
 	background-attachment: fixed;
-	background-size: cover;
 	background-color: #24280d;
 	height: 100%;
 	margin: 0;
